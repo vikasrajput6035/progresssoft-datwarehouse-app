@@ -17,10 +17,7 @@ https://drive.google.com/drive/folders/1K6maXR44X966q5B8tzoCFXiz5v5Ltd6r?usp=sha
 2.  Sample100kRecords.csv  -  Sample CSV File with 100K records
 3.  For this project you'll need four tables. Out of four table you will need one table with its data inorder to run all Junit Test Cases otherwise test cases will fail.
 	
-	filereporttable.sql  (Sample data query is included)
-	fxaccumulativecounttable.sql
-	fxdealstable.sql
-	fxinvaliddealstable.sql
+	filereporttable.sql  (Sample data query is included), fxaccumulativecounttable.sql, fxdealstable.sql, fxinvaliddealstable.sql
 
 4. 	sample folder is included for junit test cases. 
 	Download this folder in your local machine and  inside TestUtils.java file change sampleFileFolders variable and give your folder location.
