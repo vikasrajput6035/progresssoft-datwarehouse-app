@@ -36,7 +36,7 @@ Project UI is divided into three tabs.
 
 # Tab 1 (Import Forex Deals) :- 
 
-In this screen file browse option is given through one can upload .csv file. Following validations are given:
+In this screen file browse option is given through which one can upload .csv file. Following validations are given:
 
 1. File format other than csv (Comma seperated values) is not allowed. It contains the following fields (Deal Unique Id, From Currency ISO Code "Ordering Currency", To Currency ISO Code, Deal timestamp, Deal Amount in ordering currency).
 2. Validations are given on all the fields of .CSV files.
@@ -47,7 +47,7 @@ User can see the success message in green if file is uploaded successfully.
 
 # Tab 2 (Summary Report) :-
 
-In this screen user can see the summary report of every files uploaded by him. It shows following fields:
+In this screen user can see the summary report of every files uploaded by him/him. It shows following fields:
 
 1. File name
 2. No. Of Invalid deals
