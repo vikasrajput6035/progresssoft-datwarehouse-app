@@ -7,7 +7,29 @@ Step 2 > Configure the Build Path of project -> Choose JDK 1.8 and Tomcat 8 Libr
 Step 3 > Right click on project -> Properties -> Deployment assembly -> Choose Add -> Select Build Entries -> Choose Maven Dependecies
 
 
-Download the sample CSV files from the below url:
+# Prequisites for Project and Junit test cases:
+
+1. Please go to the below google drive location:
+
+https://drive.google.com/drive/folders/1K6maXR44X966q5B8tzoCFXiz5v5Ltd6r?usp=sharing
+
+
+2.  Sample100kRecords.csv  -  Sample CSV File with 100K records
+3.  For this project you'll need four tables. Out of four table you will need one table with its data inorder to run all Junit Test Cases otherwise test cases will fail.
+	
+	filereporttable.sql  (Sample data query is included)
+	fxaccumulativecounttable.sql
+	fxdealstable.sql
+	fxinvaliddealstable.sql
+
+4. 	sample folder is included for junit test cases. 
+	Download this folder in your local machine and  inside TestUtils.java file change sampleFileFolders variable and give your folder location.
+
+
+
+# Download the sample CSV file from the below url:
+
+https://drive.google.com/file/d/1zXaoW_85duzhnzvDl3gRpqhxIU-SZ_yJ/view
 
 
 
